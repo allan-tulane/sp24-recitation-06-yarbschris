@@ -7,7 +7,7 @@
 
 Place all written answers from `recitation-07.md` here for easier grading.
 
-
+I FORGOT TO SUBMIT LINK TO RECITATION 5 BUT HAD IT DONE ON TIME, SUBMITTED LINK
 
 - **2)** W(n) = 2 + W(n-1) + W(n-2), total work between O(2^n) and O(sqrt(2)^n)
 
