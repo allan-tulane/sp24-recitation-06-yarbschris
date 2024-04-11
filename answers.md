@@ -11,7 +11,7 @@ I FORGOT TO SUBMIT LINK TO RECITATION 5 BUT HAD IT DONE ON TIME, SUBMITTED LINK
 
 - **2)** W(n) = 2 + W(n-1) + W(n-2), total work between O(2^n) and O(sqrt(2)^n)
 
-- **3)** S(n − 1) + c, and the Span is 
+- **3)** S(n − 1) + c, and the Span is O(n)
 
 - **4)** The "count" array shows how many time each Fibonacci number is computed. The pattern demonstrates that there is much duplicate work being done in the computation.
 
